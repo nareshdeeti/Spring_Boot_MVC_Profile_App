@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: mvc-boot-profile-app02
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nareshd
+Implementation-Vendor-Id: com.nana
+Created-By: IntelliJ IDEA
+Build-Jdk: 11.0.1
+Main-Class: ${start-class}
+
